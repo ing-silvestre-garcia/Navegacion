@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  Home.h
 //  Navegacion
 //
 //  Created by Silvestre Garcia on 11/1/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface Home : UITabBar
 
 @end
-
