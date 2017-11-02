@@ -17,6 +17,7 @@
 		D70CD27C1FAA9DE20019A46A /* Home.m in Sources */ = {isa = PBXBuildFile; fileRef = D70CD27B1FAA9DE20019A46A /* Home.m */; };
 		D70CD27F1FAA9F400019A46A /* NavigationItem1.m in Sources */ = {isa = PBXBuildFile; fileRef = D70CD27E1FAA9F400019A46A /* NavigationItem1.m */; };
 		D70CD2821FAA9F570019A46A /* NavigationItem2.m in Sources */ = {isa = PBXBuildFile; fileRef = D70CD2811FAA9F570019A46A /* NavigationItem2.m */; };
+		D70CD2851FAAA8C00019A46A /* TablaTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D70CD2841FAAA8C00019A46A /* TablaTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		D70CD27E1FAA9F400019A46A /* NavigationItem1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavigationItem1.m; sourceTree = "<group>"; };
 		D70CD2801FAA9F570019A46A /* NavigationItem2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavigationItem2.h; sourceTree = "<group>"; };
 		D70CD2811FAA9F570019A46A /* NavigationItem2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavigationItem2.m; sourceTree = "<group>"; };
+		D70CD2831FAAA8C00019A46A /* TablaTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TablaTableViewController.h; sourceTree = "<group>"; };
+		D70CD2841FAAA8C00019A46A /* TablaTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TablaTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +156,8 @@
 				D70CD27E1FAA9F400019A46A /* NavigationItem1.m */,
 				D70CD2801FAA9F570019A46A /* NavigationItem2.h */,
 				D70CD2811FAA9F570019A46A /* NavigationItem2.m */,
+				D70CD2831FAAA8C00019A46A /* TablaTableViewController.h */,
+				D70CD2841FAAA8C00019A46A /* TablaTableViewController.m */,
 			);
 			name = Main;
 			sourceTree = "<group>";
@@ -303,6 +308,7 @@
 				D70CD2821FAA9F570019A46A /* NavigationItem2.m in Sources */,
 				D70CD24A1FAA9C3C0019A46A /* AppDelegate.m in Sources */,
 				D70CD2471FAA9C3C0019A46A /* main.m in Sources */,
+				D70CD2851FAAA8C00019A46A /* TablaTableViewController.m in Sources */,
 				D70CD27C1FAA9DE20019A46A /* Home.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
